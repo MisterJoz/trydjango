@@ -1,2 +1,3 @@
 # trydjango
-First project using Django framework
+First project using Django framework.
+Code is in the src folder.
